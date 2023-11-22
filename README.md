@@ -1,4 +1,4 @@
-# go-shopping-cart
+# shopping-cart
 
 # Tech stack
 
