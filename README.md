@@ -1,7 +1,9 @@
 # shopping-cart-client
 
-# Teck Stack
+# Tech stack
+
 - Next.js
 - Antd.js
 - tailwindcss
 - Redux Tool Kit for store management
+
